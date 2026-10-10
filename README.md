@@ -1,4 +1,5 @@
-<h3 align="left">お控えなすって</h3>
+<h1 align="center">HELLO</h1>
+<p align="center">MY NAME IS</p>
 
 ![5h0utat0t2uka](./docs/clear.png.webp)
 
